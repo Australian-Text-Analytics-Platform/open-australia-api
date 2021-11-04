@@ -1,0 +1,21 @@
+title:
+    - "Using APIs: Open Australia"
+skills:
+    - rest api
+    - get
+    - lemmatisation
+    - word frequency
+    - bar chart
+tools:
+    - requests
+    - spacy
+roadblocks:
+    - apply for api key
+workflow:
+    - following:
+        - create an ro-crate
+        - webscraping
+contributors:
+    - https://orcid.org/0000-0001-6147-120X
+datePublished:
+    - 2021-11-03
