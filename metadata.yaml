@@ -12,9 +12,9 @@ tools:
 roadblocks:
     - apply for api key
 workflow:
-    - following:
-        - create an ro-crate
-        - webscraping
+    - next:
+        - [ro-crate packaging](https://github.com/Australian-Text-Analytics-Platform/ro-crate-packaging)
+        - [web-scraping](https://github.com/Australian-Text-Analytics-Platform/open-australia-api)
 contributors:
     - https://orcid.org/0000-0001-6147-120X
 datePublished:
